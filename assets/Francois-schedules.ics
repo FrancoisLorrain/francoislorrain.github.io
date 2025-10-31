@@ -2,2017 +2,284 @@ BEGIN:VCALENDAR
 PRODID:-//eluceo/ical//2.0/EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Mon Calendrier Toronto
 X-WR-TIMEZONE:America/Toronto
 
 BEGIN:VTIMEZONE
 TZID:America/Toronto
 BEGIN:DAYLIGHT
-TZNAME:EDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
 TZOFFSETFROM:-0500
 TZOFFSETTO:-0400
+DTSTART:20250309T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZNAME:EDT
 END:DAYLIGHT
 BEGIN:STANDARD
-TZNAME:EST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 TZOFFSETFROM:-0400
 TZOFFSETTO:-0500
+DTSTART:20251102T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
 
 BEGIN:VEVENT
-UID:schedule_385_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_385_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251101T100000
-DTEND;TZID=America/Toronto:20251101T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251101T060000
+DTEND;TZID=America/Toronto:20251101T090000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_388_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_388_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251101T190000
-DTEND;TZID=America/Toronto:20251101T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251101T150000
+DTEND;TZID=America/Toronto:20251101T180000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_389_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251102T100000
-DTEND;TZID=America/Toronto:20251102T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_392_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251102T190000
-DTEND;TZID=America/Toronto:20251102T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_393_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251103T100000
-DTEND;TZID=America/Toronto:20251103T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_394_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251103T130000
-DTEND;TZID=America/Toronto:20251103T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_396_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251103T190000
-DTEND;TZID=America/Toronto:20251103T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_397_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251104T100000
-DTEND;TZID=America/Toronto:20251104T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_398_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251104T130000
-DTEND;TZID=America/Toronto:20251104T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_400_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251104T190000
-DTEND;TZID=America/Toronto:20251104T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_401_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251105T100000
-DTEND;TZID=America/Toronto:20251105T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_402_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251105T130000
-DTEND;TZID=America/Toronto:20251105T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_404_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251105T190000
-DTEND;TZID=America/Toronto:20251105T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_405_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251106T100000
-DTEND;TZID=America/Toronto:20251106T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_406_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251106T130000
-DTEND;TZID=America/Toronto:20251106T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_408_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251106T190000
-DTEND;TZID=America/Toronto:20251106T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_409_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251107T100000
-DTEND;TZID=America/Toronto:20251107T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_410_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251107T130000
-DTEND;TZID=America/Toronto:20251107T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_412_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251107T190000
-DTEND;TZID=America/Toronto:20251107T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_413_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251108T100000
-DTEND;TZID=America/Toronto:20251108T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_416_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251108T190000
-DTEND;TZID=America/Toronto:20251108T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_417_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251109T100000
-DTEND;TZID=America/Toronto:20251109T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_420_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251109T190000
-DTEND;TZID=America/Toronto:20251109T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_421_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251110T100000
-DTEND;TZID=America/Toronto:20251110T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_422_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251110T130000
-DTEND;TZID=America/Toronto:20251110T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_424_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251110T190000
-DTEND;TZID=America/Toronto:20251110T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_425_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251111T100000
-DTEND;TZID=America/Toronto:20251111T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_426_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251111T130000
-DTEND;TZID=America/Toronto:20251111T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_428_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251111T190000
-DTEND;TZID=America/Toronto:20251111T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_429_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251112T100000
-DTEND;TZID=America/Toronto:20251112T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_430_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251112T130000
-DTEND;TZID=America/Toronto:20251112T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_432_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251112T190000
-DTEND;TZID=America/Toronto:20251112T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_433_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251113T100000
-DTEND;TZID=America/Toronto:20251113T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_434_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251113T130000
-DTEND;TZID=America/Toronto:20251113T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_436_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251113T190000
-DTEND;TZID=America/Toronto:20251113T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_437_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251114T100000
-DTEND;TZID=America/Toronto:20251114T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_438_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251114T130000
-DTEND;TZID=America/Toronto:20251114T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_440_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251114T190000
-DTEND;TZID=America/Toronto:20251114T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_441_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251115T100000
-DTEND;TZID=America/Toronto:20251115T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_444_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251115T190000
-DTEND;TZID=America/Toronto:20251115T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_445_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251116T100000
-DTEND;TZID=America/Toronto:20251116T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_448_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251116T190000
-DTEND;TZID=America/Toronto:20251116T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_449_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251117T100000
-DTEND;TZID=America/Toronto:20251117T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_450_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251117T130000
-DTEND;TZID=America/Toronto:20251117T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_452_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251117T190000
-DTEND;TZID=America/Toronto:20251117T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_453_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251118T100000
-DTEND;TZID=America/Toronto:20251118T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_454_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251118T130000
-DTEND;TZID=America/Toronto:20251118T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_456_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251118T190000
-DTEND;TZID=America/Toronto:20251118T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_457_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251119T100000
-DTEND;TZID=America/Toronto:20251119T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_458_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251119T130000
-DTEND;TZID=America/Toronto:20251119T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_460_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251119T190000
-DTEND;TZID=America/Toronto:20251119T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_461_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251120T100000
-DTEND;TZID=America/Toronto:20251120T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_462_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251120T130000
-DTEND;TZID=America/Toronto:20251120T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_464_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251120T190000
-DTEND;TZID=America/Toronto:20251120T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_465_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251121T100000
-DTEND;TZID=America/Toronto:20251121T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_466_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251121T130000
-DTEND;TZID=America/Toronto:20251121T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_468_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251121T190000
-DTEND;TZID=America/Toronto:20251121T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_469_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251122T100000
-DTEND;TZID=America/Toronto:20251122T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_472_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251122T190000
-DTEND;TZID=America/Toronto:20251122T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_473_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251123T100000
-DTEND;TZID=America/Toronto:20251123T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_476_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251123T190000
-DTEND;TZID=America/Toronto:20251123T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_477_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251124T100000
-DTEND;TZID=America/Toronto:20251124T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_478_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251124T130000
-DTEND;TZID=America/Toronto:20251124T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_480_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251124T190000
-DTEND;TZID=America/Toronto:20251124T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_481_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251125T100000
-DTEND;TZID=America/Toronto:20251125T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_482_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251125T130000
-DTEND;TZID=America/Toronto:20251125T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_484_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251125T190000
-DTEND;TZID=America/Toronto:20251125T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_485_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251126T100000
-DTEND;TZID=America/Toronto:20251126T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_486_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251126T130000
-DTEND;TZID=America/Toronto:20251126T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_488_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251126T190000
-DTEND;TZID=America/Toronto:20251126T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_489_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251127T100000
-DTEND;TZID=America/Toronto:20251127T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_490_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251127T130000
-DTEND;TZID=America/Toronto:20251127T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_492_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251127T190000
-DTEND;TZID=America/Toronto:20251127T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_493_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251128T100000
-DTEND;TZID=America/Toronto:20251128T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_494_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251128T130000
-DTEND;TZID=America/Toronto:20251128T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_496_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251128T190000
-DTEND;TZID=America/Toronto:20251128T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_497_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251129T100000
-DTEND;TZID=America/Toronto:20251129T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_500_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251129T190000
-DTEND;TZID=America/Toronto:20251129T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_501_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251130T100000
-DTEND;TZID=America/Toronto:20251130T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_504_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251130T190000
-DTEND;TZID=America/Toronto:20251130T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_505_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251201T100000
-DTEND;TZID=America/Toronto:20251201T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_506_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251201T130000
-DTEND;TZID=America/Toronto:20251201T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_508_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251201T190000
-DTEND;TZID=America/Toronto:20251201T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_509_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251202T100000
-DTEND;TZID=America/Toronto:20251202T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_510_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251202T130000
-DTEND;TZID=America/Toronto:20251202T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_512_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251202T190000
-DTEND;TZID=America/Toronto:20251202T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_513_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251203T100000
-DTEND;TZID=America/Toronto:20251203T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_514_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251203T130000
-DTEND;TZID=America/Toronto:20251203T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_516_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251203T190000
-DTEND;TZID=America/Toronto:20251203T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_517_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251204T100000
-DTEND;TZID=America/Toronto:20251204T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_518_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251204T130000
-DTEND;TZID=America/Toronto:20251204T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_520_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251204T190000
-DTEND;TZID=America/Toronto:20251204T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_521_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251205T100000
-DTEND;TZID=America/Toronto:20251205T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_522_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251205T130000
-DTEND;TZID=America/Toronto:20251205T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_524_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251205T190000
-DTEND;TZID=America/Toronto:20251205T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_525_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251206T100000
-DTEND;TZID=America/Toronto:20251206T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_528_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251206T190000
-DTEND;TZID=America/Toronto:20251206T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_529_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251207T100000
-DTEND;TZID=America/Toronto:20251207T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_532_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251207T190000
-DTEND;TZID=America/Toronto:20251207T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_533_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251208T100000
-DTEND;TZID=America/Toronto:20251208T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_534_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251208T130000
-DTEND;TZID=America/Toronto:20251208T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_536_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251208T190000
-DTEND;TZID=America/Toronto:20251208T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_537_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251209T100000
-DTEND;TZID=America/Toronto:20251209T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_538_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251209T130000
-DTEND;TZID=America/Toronto:20251209T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_540_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251209T190000
-DTEND;TZID=America/Toronto:20251209T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_541_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251210T100000
-DTEND;TZID=America/Toronto:20251210T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_542_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251210T130000
-DTEND;TZID=America/Toronto:20251210T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_544_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251210T190000
-DTEND;TZID=America/Toronto:20251210T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_545_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251211T100000
-DTEND;TZID=America/Toronto:20251211T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_546_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251211T130000
-DTEND;TZID=America/Toronto:20251211T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_548_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251211T190000
-DTEND;TZID=America/Toronto:20251211T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_549_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251212T100000
-DTEND;TZID=America/Toronto:20251212T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_550_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251212T130000
-DTEND;TZID=America/Toronto:20251212T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_552_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251212T190000
-DTEND;TZID=America/Toronto:20251212T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_553_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251213T100000
-DTEND;TZID=America/Toronto:20251213T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_556_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251213T190000
-DTEND;TZID=America/Toronto:20251213T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_557_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251214T100000
-DTEND;TZID=America/Toronto:20251214T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_560_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251214T190000
-DTEND;TZID=America/Toronto:20251214T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_561_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251215T100000
-DTEND;TZID=America/Toronto:20251215T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_562_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251215T130000
-DTEND;TZID=America/Toronto:20251215T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_564_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251215T190000
-DTEND;TZID=America/Toronto:20251215T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_565_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251216T100000
-DTEND;TZID=America/Toronto:20251216T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_566_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251216T130000
-DTEND;TZID=America/Toronto:20251216T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_568_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251216T190000
-DTEND;TZID=America/Toronto:20251216T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_569_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251217T100000
-DTEND;TZID=America/Toronto:20251217T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_570_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251217T130000
-DTEND;TZID=America/Toronto:20251217T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_572_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251217T190000
-DTEND;TZID=America/Toronto:20251217T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_573_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251218T100000
-DTEND;TZID=America/Toronto:20251218T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_574_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251218T130000
-DTEND;TZID=America/Toronto:20251218T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_576_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251218T190000
-DTEND;TZID=America/Toronto:20251218T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_577_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251219T100000
-DTEND;TZID=America/Toronto:20251219T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_578_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251219T130000
-DTEND;TZID=America/Toronto:20251219T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_580_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251219T190000
-DTEND;TZID=America/Toronto:20251219T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_581_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251220T100000
-DTEND;TZID=America/Toronto:20251220T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_584_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251220T190000
-DTEND;TZID=America/Toronto:20251220T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_585_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251221T100000
-DTEND;TZID=America/Toronto:20251221T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_588_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251221T190000
-DTEND;TZID=America/Toronto:20251221T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_589_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251222T100000
-DTEND;TZID=America/Toronto:20251222T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_590_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251222T130000
-DTEND;TZID=America/Toronto:20251222T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_592_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251222T190000
-DTEND;TZID=America/Toronto:20251222T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_593_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251223T100000
-DTEND;TZID=America/Toronto:20251223T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_594_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251223T130000
-DTEND;TZID=America/Toronto:20251223T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_596_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251223T190000
-DTEND;TZID=America/Toronto:20251223T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_597_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251224T100000
-DTEND;TZID=America/Toronto:20251224T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_598_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251224T130000
-DTEND;TZID=America/Toronto:20251224T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_600_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251224T190000
-DTEND;TZID=America/Toronto:20251224T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_601_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251225T100000
-DTEND;TZID=America/Toronto:20251225T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_602_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251225T130000
-DTEND;TZID=America/Toronto:20251225T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_604_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251225T190000
-DTEND;TZID=America/Toronto:20251225T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_605_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251226T100000
-DTEND;TZID=America/Toronto:20251226T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_606_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251226T130000
-DTEND;TZID=America/Toronto:20251226T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_608_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251226T190000
-DTEND;TZID=America/Toronto:20251226T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_609_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251227T100000
-DTEND;TZID=America/Toronto:20251227T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_612_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251227T190000
-DTEND;TZID=America/Toronto:20251227T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_613_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251228T100000
-DTEND;TZID=America/Toronto:20251228T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_616_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251228T190000
-DTEND;TZID=America/Toronto:20251228T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_617_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251229T100000
-DTEND;TZID=America/Toronto:20251229T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_618_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251229T130000
-DTEND;TZID=America/Toronto:20251229T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_620_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251229T190000
-DTEND;TZID=America/Toronto:20251229T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_621_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251230T100000
-DTEND;TZID=America/Toronto:20251230T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_622_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251230T130000
-DTEND;TZID=America/Toronto:20251230T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_624_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251230T190000
-DTEND;TZID=America/Toronto:20251230T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_625_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251231T100000
-DTEND;TZID=America/Toronto:20251231T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_626_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251231T130000
-DTEND;TZID=America/Toronto:20251231T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_628_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20251231T190000
-DTEND;TZID=America/Toronto:20251231T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_629_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260101T100000
-DTEND;TZID=America/Toronto:20260101T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_630_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260101T130000
-DTEND;TZID=America/Toronto:20260101T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_632_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260101T190000
-DTEND;TZID=America/Toronto:20260101T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_633_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260102T100000
-DTEND;TZID=America/Toronto:20260102T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_634_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260102T130000
-DTEND;TZID=America/Toronto:20260102T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_636_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260102T190000
-DTEND;TZID=America/Toronto:20260102T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_637_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260103T100000
-DTEND;TZID=America/Toronto:20260103T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_640_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260103T190000
-DTEND;TZID=America/Toronto:20260103T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_641_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260104T100000
-DTEND;TZID=America/Toronto:20260104T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_644_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260104T190000
-DTEND;TZID=America/Toronto:20260104T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_645_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260105T100000
-DTEND;TZID=America/Toronto:20260105T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_646_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260105T130000
-DTEND;TZID=America/Toronto:20260105T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_648_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260105T190000
-DTEND;TZID=America/Toronto:20260105T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_649_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260106T100000
-DTEND;TZID=America/Toronto:20260106T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_650_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260106T130000
-DTEND;TZID=America/Toronto:20260106T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_652_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260106T190000
-DTEND;TZID=America/Toronto:20260106T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_653_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260107T100000
-DTEND;TZID=America/Toronto:20260107T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_654_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260107T130000
-DTEND;TZID=America/Toronto:20260107T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_656_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260107T190000
-DTEND;TZID=America/Toronto:20260107T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_657_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260108T100000
-DTEND;TZID=America/Toronto:20260108T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_658_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260108T130000
-DTEND;TZID=America/Toronto:20260108T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_660_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260108T190000
-DTEND;TZID=America/Toronto:20260108T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_661_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260109T100000
-DTEND;TZID=America/Toronto:20260109T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_662_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260109T130000
-DTEND;TZID=America/Toronto:20260109T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_664_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260109T190000
-DTEND;TZID=America/Toronto:20260109T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_665_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260110T100000
-DTEND;TZID=America/Toronto:20260110T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_668_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260110T190000
-DTEND;TZID=America/Toronto:20260110T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_669_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260111T100000
-DTEND;TZID=America/Toronto:20260111T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_672_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260111T190000
-DTEND;TZID=America/Toronto:20260111T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_673_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260112T100000
-DTEND;TZID=America/Toronto:20260112T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_674_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260112T130000
-DTEND;TZID=America/Toronto:20260112T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_676_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260112T190000
-DTEND;TZID=America/Toronto:20260112T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_677_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260113T100000
-DTEND;TZID=America/Toronto:20260113T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_678_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260113T130000
-DTEND;TZID=America/Toronto:20260113T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_680_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260113T190000
-DTEND;TZID=America/Toronto:20260113T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_681_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260114T100000
-DTEND;TZID=America/Toronto:20260114T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_682_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260114T130000
-DTEND;TZID=America/Toronto:20260114T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_684_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260114T190000
-DTEND;TZID=America/Toronto:20260114T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_685_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260115T100000
-DTEND;TZID=America/Toronto:20260115T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_686_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260115T130000
-DTEND;TZID=America/Toronto:20260115T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_688_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260115T190000
-DTEND;TZID=America/Toronto:20260115T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_689_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260116T100000
-DTEND;TZID=America/Toronto:20260116T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_690_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_389_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260116T130000
-DTEND;TZID=America/Toronto:20260116T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_692_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260116T190000
-DTEND;TZID=America/Toronto:20260116T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251102T090000
+DTEND;TZID=America/Toronto:20251102T120000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_693_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260117T100000
-DTEND;TZID=America/Toronto:20260117T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_696_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260117T190000
-DTEND;TZID=America/Toronto:20260117T220000
+UID:schedule_390_1761873269
+DTSTAMP:20251031T011429Z
+SUMMARY:Disponibilité - 16:00-19:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251102T120000
+DTEND;TZID=America/Toronto:20251102T150000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_697_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260118T100000
-DTEND;TZID=America/Toronto:20260118T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_700_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_391_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260118T190000
-DTEND;TZID=America/Toronto:20260118T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251102T150000
+DTEND;TZID=America/Toronto:20251102T180000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_701_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_392_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260119T100000
-DTEND;TZID=America/Toronto:20260119T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251103T050000
+DTEND;TZID=America/Toronto:20251103T080000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_702_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_393_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260119T130000
-DTEND;TZID=America/Toronto:20260119T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_704_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260119T190000
-DTEND;TZID=America/Toronto:20260119T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_705_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260120T100000
-DTEND;TZID=America/Toronto:20260120T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251103T080000
+DTEND;TZID=America/Toronto:20251103T110000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_706_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260120T130000
-DTEND;TZID=America/Toronto:20260120T160000
+UID:schedule_394_1761873269
+DTSTAMP:20251031T011429Z
+SUMMARY:Disponibilité - 16:00-19:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251103T110000
+DTEND;TZID=America/Toronto:20251103T140000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_708_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_395_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260120T190000
-DTEND;TZID=America/Toronto:20260120T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251103T140000
+DTEND;TZID=America/Toronto:20251103T170000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_709_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_396_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260121T100000
-DTEND;TZID=America/Toronto:20260121T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251104T050000
+DTEND;TZID=America/Toronto:20251104T080000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_710_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_397_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260121T130000
-DTEND;TZID=America/Toronto:20260121T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_712_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260121T190000
-DTEND;TZID=America/Toronto:20260121T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_713_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260122T100000
-DTEND;TZID=America/Toronto:20260122T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251104T080000
+DTEND;TZID=America/Toronto:20251104T110000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_714_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260122T130000
-DTEND;TZID=America/Toronto:20260122T160000
+UID:schedule_398_1761873269
+DTSTAMP:20251031T011429Z
+SUMMARY:Disponibilité - 16:00-19:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251104T110000
+DTEND;TZID=America/Toronto:20251104T140000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_716_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_399_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260122T190000
-DTEND;TZID=America/Toronto:20260122T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251104T140000
+DTEND;TZID=America/Toronto:20251104T170000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_717_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_400_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260123T100000
-DTEND;TZID=America/Toronto:20260123T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251105T050000
+DTEND;TZID=America/Toronto:20251105T080000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_718_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_401_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260123T130000
-DTEND;TZID=America/Toronto:20260123T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_720_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260123T190000
-DTEND;TZID=America/Toronto:20260123T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251105T080000
+DTEND;TZID=America/Toronto:20251105T110000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_721_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260124T100000
-DTEND;TZID=America/Toronto:20260124T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_724_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260124T190000
-DTEND;TZID=America/Toronto:20260124T220000
+UID:schedule_402_1761873269
+DTSTAMP:20251031T011429Z
+SUMMARY:Disponibilité - 16:00-19:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251105T110000
+DTEND;TZID=America/Toronto:20251105T140000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_725_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260125T100000
-DTEND;TZID=America/Toronto:20260125T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_728_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_403_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260125T190000
-DTEND;TZID=America/Toronto:20260125T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251105T140000
+DTEND;TZID=America/Toronto:20251105T170000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_729_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_404_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260126T100000
-DTEND;TZID=America/Toronto:20260126T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251106T050000
+DTEND;TZID=America/Toronto:20251106T080000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_730_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_405_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260126T130000
-DTEND;TZID=America/Toronto:20260126T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_732_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260126T190000
-DTEND;TZID=America/Toronto:20260126T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_733_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260127T100000
-DTEND;TZID=America/Toronto:20260127T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251106T080000
+DTEND;TZID=America/Toronto:20251106T110000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_734_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260127T130000
-DTEND;TZID=America/Toronto:20260127T160000
+UID:schedule_406_1761873269
+DTSTAMP:20251031T011429Z
+SUMMARY:Disponibilité - 16:00-19:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251106T110000
+DTEND;TZID=America/Toronto:20251106T140000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_736_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_407_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260127T190000
-DTEND;TZID=America/Toronto:20260127T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251106T140000
+DTEND;TZID=America/Toronto:20251106T170000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_737_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_408_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260128T100000
-DTEND;TZID=America/Toronto:20260128T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251107T050000
+DTEND;TZID=America/Toronto:20251107T080000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_738_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_409_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260128T130000
-DTEND;TZID=America/Toronto:20260128T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_740_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260128T190000
-DTEND;TZID=America/Toronto:20260128T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_741_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260129T100000
-DTEND;TZID=America/Toronto:20260129T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251107T080000
+DTEND;TZID=America/Toronto:20251107T110000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_742_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260129T130000
-DTEND;TZID=America/Toronto:20260129T160000
+UID:schedule_410_1761873269
+DTSTAMP:20251031T011429Z
+SUMMARY:Disponibilité - 16:00-19:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251107T110000
+DTEND;TZID=America/Toronto:20251107T140000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_744_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_411_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260129T190000
-DTEND;TZID=America/Toronto:20260129T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251107T140000
+DTEND;TZID=America/Toronto:20251107T170000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_745_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_412_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260130T100000
-DTEND;TZID=America/Toronto:20260130T130000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251108T050000
+DTEND;TZID=America/Toronto:20251108T080000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_746_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_413_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 13:00-16:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260130T130000
-DTEND;TZID=America/Toronto:20260130T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_748_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260130T190000
-DTEND;TZID=America/Toronto:20260130T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251108T080000
+DTEND;TZID=America/Toronto:20251108T110000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_749_1761858129
-DTSTAMP:20251030T210209Z
-SUMMARY:Disponibilité - 10:00-13:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260131T100000
-DTEND;TZID=America/Toronto:20260131T130000
+UID:schedule_414_1761873269
+DTSTAMP:20251031T011429Z
+SUMMARY:Disponibilité - 16:00-19:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251108T110000
+DTEND;TZID=America/Toronto:20251108T140000
 END:VEVENT
+
 BEGIN:VEVENT
-UID:schedule_752_1761858129
-DTSTAMP:20251030T210209Z
+UID:schedule_415_1761873269
+DTSTAMP:20251031T011429Z
 SUMMARY:Disponibilité - 19:00-22:00
-DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB\n onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis \n Indyzen Calendar
-DTSTART;TZID=America/Toronto:20260131T190000
-DTEND;TZID=America/Toronto:20260131T220000
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nBonus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis \n Indyzen Calendar
+DTSTART;TZID=America/Toronto:20251108T140000
+DTEND;TZID=America/Toronto:20251108T170000
 END:VEVENT
 END:VCALENDAR
