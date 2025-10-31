@@ -2,6 +2,8 @@ BEGIN:VCALENDAR
 PRODID:-//eluceo/ical//2.0/EN
 VERSION:2.0
 CALSCALE:GREGORIAN
+X-WR-CALNAME:Spa le Finlandais / Isabelle / GitHub
+
 BEGIN:VTIMEZONE
 TZID:America/Toronto
 X-LIC-LOCATION:America/Toronto
