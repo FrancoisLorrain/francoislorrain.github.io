@@ -2,11 +2,9 @@ BEGIN:VCALENDAR
 PRODID:-//eluceo/ical//2.0/EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Spa le Finlandais / François / GitHub
-X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-UID:schedule_385_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_385_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -15,8 +13,8 @@ DTSTART:20251101T100000
 DTEND:20251101T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_388_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_388_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis 
@@ -25,8 +23,8 @@ DTSTART:20251101T190000
 DTEND:20251101T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_390_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_390_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -35,8 +33,8 @@ DTSTART:20251102T130000
 DTEND:20251102T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_391_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_391_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -45,8 +43,8 @@ DTSTART:20251102T160000
 DTEND:20251102T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_392_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_392_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $5\n\nExporté depuis 
@@ -55,8 +53,8 @@ DTSTART:20251102T190000
 DTEND:20251102T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_505_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_505_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -64,8 +62,8 @@ DTSTART:20251103T100000
 DTEND:20251103T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_506_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_506_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -73,8 +71,8 @@ DTSTART:20251103T130000
 DTEND:20251103T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_507_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_507_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -82,8 +80,8 @@ DTSTART:20251103T160000
 DTEND:20251103T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_508_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_508_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -92,8 +90,8 @@ DTSTART:20251103T190000
 DTEND:20251103T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_513_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_513_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -101,8 +99,8 @@ DTSTART:20251105T100000
 DTEND:20251105T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_514_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_514_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -110,8 +108,8 @@ DTSTART:20251105T130000
 DTEND:20251105T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_515_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_515_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -119,8 +117,8 @@ DTSTART:20251105T160000
 DTEND:20251105T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_516_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_516_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -129,8 +127,8 @@ DTSTART:20251105T190000
 DTEND:20251105T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_517_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_517_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -138,8 +136,8 @@ DTSTART:20251106T100000
 DTEND:20251106T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_518_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_518_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -147,8 +145,8 @@ DTSTART:20251106T130000
 DTEND:20251106T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_519_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_519_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -156,8 +154,8 @@ DTSTART:20251106T160000
 DTEND:20251106T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_520_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_520_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -166,8 +164,8 @@ DTSTART:20251106T190000
 DTEND:20251106T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_521_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_521_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -175,8 +173,8 @@ DTSTART:20251107T100000
 DTEND:20251107T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_522_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_522_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -184,8 +182,8 @@ DTSTART:20251107T130000
 DTEND:20251107T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_533_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_533_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -193,8 +191,8 @@ DTSTART:20251110T100000
 DTEND:20251110T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_534_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_534_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -202,8 +200,8 @@ DTSTART:20251110T130000
 DTEND:20251110T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_537_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_537_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n\nExporté depuis Indyzen Calendar
@@ -211,8 +209,8 @@ DTSTART:20251111T100000
 DTEND:20251111T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_538_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_538_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n\nExporté depuis Indyzen Calendar
@@ -220,8 +218,8 @@ DTSTART:20251111T130000
 DTEND:20251111T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_541_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_541_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -229,8 +227,8 @@ DTSTART:20251112T100000
 DTEND:20251112T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_542_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_542_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -238,8 +236,8 @@ DTSTART:20251112T130000
 DTEND:20251112T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_543_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_543_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -247,8 +245,8 @@ DTSTART:20251112T160000
 DTEND:20251112T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_544_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_544_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -257,8 +255,8 @@ DTSTART:20251112T190000
 DTEND:20251112T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_545_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_545_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -266,8 +264,8 @@ DTSTART:20251113T100000
 DTEND:20251113T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_546_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_546_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -275,8 +273,8 @@ DTSTART:20251113T130000
 DTEND:20251113T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_549_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_549_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -284,8 +282,8 @@ DTSTART:20251114T100000
 DTEND:20251114T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_550_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_550_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -293,8 +291,8 @@ DTSTART:20251114T130000
 DTEND:20251114T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_551_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_551_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -302,8 +300,8 @@ DTSTART:20251114T160000
 DTEND:20251114T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_552_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_552_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -312,8 +310,8 @@ DTSTART:20251114T190000
 DTEND:20251114T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_553_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_553_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -322,8 +320,8 @@ DTSTART:20251115T100000
 DTEND:20251115T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_554_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_554_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -332,8 +330,8 @@ DTSTART:20251115T130000
 DTEND:20251115T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_555_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_555_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -342,8 +340,8 @@ DTSTART:20251115T160000
 DTEND:20251115T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_556_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_556_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis 
@@ -352,8 +350,8 @@ DTSTART:20251115T190000
 DTEND:20251115T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_558_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_558_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -362,8 +360,8 @@ DTSTART:20251116T130000
 DTEND:20251116T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_559_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_559_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -372,8 +370,8 @@ DTSTART:20251116T160000
 DTEND:20251116T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_560_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_560_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $5\n\nExporté depuis 
@@ -382,8 +380,8 @@ DTSTART:20251116T190000
 DTEND:20251116T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_565_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_565_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -391,8 +389,8 @@ DTSTART:20251118T100000
 DTEND:20251118T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_566_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_566_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -400,8 +398,8 @@ DTSTART:20251118T130000
 DTEND:20251118T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_567_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_567_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -409,8 +407,8 @@ DTSTART:20251118T160000
 DTEND:20251118T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_569_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_569_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -418,8 +416,8 @@ DTSTART:20251119T100000
 DTEND:20251119T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_570_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_570_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -427,8 +425,8 @@ DTSTART:20251119T130000
 DTEND:20251119T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_571_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_571_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -436,8 +434,8 @@ DTSTART:20251119T160000
 DTEND:20251119T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_572_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_572_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -446,8 +444,8 @@ DTSTART:20251119T190000
 DTEND:20251119T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_573_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_573_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -455,8 +453,8 @@ DTSTART:20251120T100000
 DTEND:20251120T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_574_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_574_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -464,8 +462,8 @@ DTSTART:20251120T130000
 DTEND:20251120T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_575_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_575_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -473,8 +471,8 @@ DTSTART:20251120T160000
 DTEND:20251120T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_576_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_576_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -483,8 +481,8 @@ DTSTART:20251120T190000
 DTEND:20251120T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_581_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_581_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -493,8 +491,8 @@ DTSTART:20251122T100000
 DTEND:20251122T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_582_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_582_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -503,8 +501,8 @@ DTSTART:20251122T130000
 DTEND:20251122T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_589_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_589_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -512,8 +510,8 @@ DTSTART:20251124T100000
 DTEND:20251124T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_590_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_590_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -521,8 +519,8 @@ DTSTART:20251124T130000
 DTEND:20251124T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_593_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_593_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -530,8 +528,8 @@ DTSTART:20251125T100000
 DTEND:20251125T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_594_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_594_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -539,8 +537,8 @@ DTSTART:20251125T130000
 DTEND:20251125T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_597_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_597_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -548,8 +546,8 @@ DTSTART:20251126T100000
 DTEND:20251126T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_598_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_598_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -557,8 +555,8 @@ DTSTART:20251126T130000
 DTEND:20251126T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_599_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_599_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -566,8 +564,8 @@ DTSTART:20251126T160000
 DTEND:20251126T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_600_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_600_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -576,8 +574,8 @@ DTSTART:20251126T190000
 DTEND:20251126T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_601_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_601_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -585,8 +583,8 @@ DTSTART:20251127T100000
 DTEND:20251127T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_602_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_602_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -594,8 +592,8 @@ DTSTART:20251127T130000
 DTEND:20251127T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_605_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_605_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -603,8 +601,8 @@ DTSTART:20251128T100000
 DTEND:20251128T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_606_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_606_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -612,8 +610,8 @@ DTSTART:20251128T130000
 DTEND:20251128T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_607_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_607_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -621,8 +619,8 @@ DTSTART:20251128T160000
 DTEND:20251128T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_608_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_608_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -631,8 +629,8 @@ DTSTART:20251128T190000
 DTEND:20251128T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_609_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_609_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -641,8 +639,8 @@ DTSTART:20251129T100000
 DTEND:20251129T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_610_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_610_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -651,8 +649,8 @@ DTSTART:20251129T130000
 DTEND:20251129T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_611_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_611_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -661,8 +659,8 @@ DTSTART:20251129T160000
 DTEND:20251129T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_612_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_612_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis 
@@ -671,8 +669,8 @@ DTSTART:20251129T190000
 DTEND:20251129T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_614_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_614_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -681,8 +679,8 @@ DTSTART:20251130T130000
 DTEND:20251130T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_615_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_615_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -691,8 +689,8 @@ DTSTART:20251130T160000
 DTEND:20251130T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_616_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_616_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $5\n\nExporté depuis 
@@ -701,8 +699,8 @@ DTSTART:20251130T190000
 DTEND:20251130T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_621_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_621_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -710,8 +708,8 @@ DTSTART:20251202T100000
 DTEND:20251202T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_622_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_622_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -719,8 +717,8 @@ DTSTART:20251202T130000
 DTEND:20251202T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_625_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_625_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -728,8 +726,8 @@ DTSTART:20251203T100000
 DTEND:20251203T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_626_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_626_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -737,8 +735,8 @@ DTSTART:20251203T130000
 DTEND:20251203T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_627_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_627_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -746,8 +744,8 @@ DTSTART:20251203T160000
 DTEND:20251203T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_628_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_628_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n⭐ Points: 10\n\nExporté depuis 
@@ -756,8 +754,8 @@ DTSTART:20251203T190000
 DTEND:20251203T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_629_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_629_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -765,8 +763,8 @@ DTSTART:20251204T100000
 DTEND:20251204T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_630_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_630_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -774,8 +772,8 @@ DTSTART:20251204T130000
 DTEND:20251204T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_631_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_631_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -783,8 +781,8 @@ DTSTART:20251204T160000
 DTEND:20251204T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_632_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_632_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n⭐ Points: 10\n\nExporté depuis 
@@ -793,8 +791,8 @@ DTSTART:20251204T190000
 DTEND:20251204T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_633_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_633_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -802,8 +800,8 @@ DTSTART:20251205T100000
 DTEND:20251205T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_634_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_634_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -811,8 +809,27 @@ DTSTART:20251205T130000
 DTEND:20251205T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_653_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_647_1763051173
+DTSTAMP:20251113T162613Z
+SUMMARY:Disponibilité - 16:00-19:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
+ xporté depuis Indyzen Calendar
+DTSTART:20251208T160000
+DTEND:20251208T190000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_648_1763051173
+DTSTAMP:20251113T162613Z
+SUMMARY:Disponibilité - 19:00-22:00
+DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
+ onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
+ Indyzen Calendar
+DTSTART:20251208T190000
+DTEND:20251208T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_653_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -820,8 +837,8 @@ DTSTART:20251210T100000
 DTEND:20251210T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_654_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_654_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -829,8 +846,8 @@ DTSTART:20251210T130000
 DTEND:20251210T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_657_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_657_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -838,8 +855,8 @@ DTSTART:20251211T100000
 DTEND:20251211T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_658_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_658_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -847,8 +864,8 @@ DTSTART:20251211T130000
 DTEND:20251211T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_661_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_661_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n\nExporté depuis Indyzen Calendar
@@ -856,8 +873,8 @@ DTSTART:20251212T100000
 DTEND:20251212T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_662_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_662_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -865,8 +882,8 @@ DTSTART:20251212T130000
 DTEND:20251212T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_663_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_663_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -874,8 +891,8 @@ DTSTART:20251212T160000
 DTEND:20251212T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_664_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_664_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -884,8 +901,8 @@ DTSTART:20251212T190000
 DTEND:20251212T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_665_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_665_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -894,8 +911,8 @@ DTSTART:20251213T100000
 DTEND:20251213T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_666_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_666_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -904,8 +921,8 @@ DTSTART:20251213T130000
 DTEND:20251213T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_667_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_667_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -914,8 +931,8 @@ DTSTART:20251213T160000
 DTEND:20251213T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_668_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_668_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis 
@@ -924,8 +941,8 @@ DTSTART:20251213T190000
 DTEND:20251213T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_669_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_669_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -934,8 +951,8 @@ DTSTART:20251214T100000
 DTEND:20251214T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_670_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_670_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $5\n\nExporté depuis 
@@ -944,8 +961,8 @@ DTSTART:20251214T130000
 DTEND:20251214T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_671_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_671_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -954,8 +971,8 @@ DTSTART:20251214T160000
 DTEND:20251214T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_672_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_672_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $5\n\nExporté depuis 
@@ -964,8 +981,8 @@ DTSTART:20251214T190000
 DTEND:20251214T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_677_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_677_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -973,8 +990,8 @@ DTSTART:20251216T100000
 DTEND:20251216T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_678_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_678_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n\nExporté depuis Indyzen Calendar
@@ -982,8 +999,8 @@ DTSTART:20251216T130000
 DTEND:20251216T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_681_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_681_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -991,8 +1008,8 @@ DTSTART:20251217T100000
 DTEND:20251217T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_682_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_682_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n\nExporté depuis Indyzen Calendar
@@ -1000,8 +1017,8 @@ DTSTART:20251217T130000
 DTEND:20251217T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_683_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_683_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -1009,8 +1026,8 @@ DTSTART:20251217T160000
 DTEND:20251217T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_684_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_684_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis
@@ -1019,8 +1036,8 @@ DTSTART:20251217T190000
 DTEND:20251217T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_685_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_685_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -1028,8 +1045,8 @@ DTSTART:20251218T100000
 DTEND:20251218T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_686_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_686_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n\nExporté depuis Indyzen Calendar
@@ -1037,8 +1054,8 @@ DTSTART:20251218T130000
 DTEND:20251218T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_687_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_687_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nE
  xporté depuis Indyzen Calendar
@@ -1046,8 +1063,8 @@ DTSTART:20251218T160000
 DTEND:20251218T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_688_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_688_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis
@@ -1056,8 +1073,8 @@ DTSTART:20251218T190000
 DTEND:20251218T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_689_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_689_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $5\n\nExporté depuis Indyzen Calendar
@@ -1065,8 +1082,8 @@ DTSTART:20251219T100000
 DTEND:20251219T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_690_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_690_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $10\n\nExporté depuis Indyzen Calenda
@@ -1075,8 +1092,8 @@ DTSTART:20251219T130000
 DTEND:20251219T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_693_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_693_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -1085,8 +1102,8 @@ DTSTART:20251220T100000
 DTEND:20251220T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_694_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_694_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis
@@ -1095,8 +1112,8 @@ DTSTART:20251220T130000
 DTEND:20251220T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_697_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_697_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -1105,8 +1122,8 @@ DTSTART:20251221T100000
 DTEND:20251221T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_698_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_698_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis
@@ -1115,8 +1132,8 @@ DTSTART:20251221T130000
 DTEND:20251221T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_713_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_713_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1125,8 +1142,8 @@ DTSTART:20251225T100000
 DTEND:20251225T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_714_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_714_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-17:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 4 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1135,8 +1152,8 @@ DTSTART:20251225T130000
 DTEND:20251225T170000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_717_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_717_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -1145,8 +1162,8 @@ DTSTART:20251226T100000
 DTEND:20251226T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_718_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_718_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis
@@ -1155,8 +1172,8 @@ DTSTART:20251226T130000
 DTEND:20251226T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_719_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_719_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $10\n\nExporté depuis
@@ -1165,8 +1182,8 @@ DTSTART:20251226T160000
 DTEND:20251226T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_720_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_720_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $15\n\nExporté depuis
@@ -1175,8 +1192,8 @@ DTSTART:20251226T190000
 DTEND:20251226T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_721_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_721_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1185,8 +1202,8 @@ DTSTART:20251227T100000
 DTEND:20251227T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_722_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_722_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1195,8 +1212,8 @@ DTSTART:20251227T130000
 DTEND:20251227T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_723_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_723_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1205,8 +1222,8 @@ DTSTART:20251227T160000
 DTEND:20251227T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_724_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_724_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1215,8 +1232,8 @@ DTSTART:20251227T190000
 DTEND:20251227T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_725_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_725_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1225,8 +1242,8 @@ DTSTART:20251228T100000
 DTEND:20251228T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_726_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_726_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1235,8 +1252,8 @@ DTSTART:20251228T130000
 DTEND:20251228T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_727_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_727_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1245,8 +1262,8 @@ DTSTART:20251228T160000
 DTEND:20251228T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_728_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_728_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1255,8 +1272,8 @@ DTSTART:20251228T190000
 DTEND:20251228T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_729_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_729_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1265,8 +1282,8 @@ DTSTART:20251229T100000
 DTEND:20251229T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_730_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_730_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1275,8 +1292,8 @@ DTSTART:20251229T130000
 DTEND:20251229T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_731_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_731_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1285,8 +1302,8 @@ DTSTART:20251229T160000
 DTEND:20251229T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_732_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_732_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1295,8 +1312,8 @@ DTSTART:20251229T190000
 DTEND:20251229T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_734_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_734_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1305,8 +1322,8 @@ DTSTART:20251230T130000
 DTEND:20251230T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_735_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_735_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1315,8 +1332,8 @@ DTSTART:20251230T160000
 DTEND:20251230T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_736_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_736_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1325,8 +1342,8 @@ DTSTART:20251230T190000
 DTEND:20251230T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_737_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_737_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1335,8 +1352,8 @@ DTSTART:20251231T100000
 DTEND:20251231T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_738_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_738_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1345,8 +1362,8 @@ DTSTART:20251231T130000
 DTEND:20251231T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_741_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_741_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $15\n\nExporté depuis
@@ -1355,8 +1372,8 @@ DTSTART:20260101T100000
 DTEND:20260101T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_742_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_742_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $15\n⭐ Points: 20\n\nExporté depuis
@@ -1365,8 +1382,8 @@ DTSTART:20260101T130000
 DTEND:20260101T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_743_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_743_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $15\n\nExporté depuis
@@ -1375,8 +1392,8 @@ DTSTART:20260101T160000
 DTEND:20260101T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_744_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_744_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $15\n\nExporté depuis
@@ -1385,8 +1402,8 @@ DTSTART:20260101T190000
 DTEND:20260101T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_745_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_745_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $8\n\nExporté depuis 
@@ -1395,8 +1412,8 @@ DTSTART:20260102T100000
 DTEND:20260102T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_746_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_746_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1405,8 +1422,8 @@ DTSTART:20260102T130000
 DTEND:20260102T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_747_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_747_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 16:00-19:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $10\n\nExporté depuis
@@ -1415,8 +1432,8 @@ DTSTART:20260102T160000
 DTEND:20260102T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_748_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_748_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 19:00-22:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 20\n💲 Monétaire: $15\n\nExporté depuis
@@ -1425,8 +1442,8 @@ DTSTART:20260102T190000
 DTEND:20260102T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_749_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_749_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 10:00-13:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n⭐ Points: 10\n💲 Monétaire: $8\n\nExporté depuis 
@@ -1435,8 +1452,8 @@ DTSTART:20260103T100000
 DTEND:20260103T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_750_1762825438
-DTSTAMP:20251111T014358Z
+UID:schedule_750_1763051173
+DTSTAMP:20251113T162613Z
 SUMMARY:Disponibilité - 13:00-16:00
 DESCRIPTION:Horaire de disponibilité à Indyzen\n\nDurée: 3 heure(s)\n\nB
  onus disponibles:\n💲 Monétaire: $10\n⭐ Points: 20\n\nExporté depuis
@@ -1445,4 +1462,3 @@ DTSTART:20260103T130000
 DTEND:20260103T160000
 END:VEVENT
 END:VCALENDAR
-
