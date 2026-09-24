@@ -2,225 +2,9 @@ BEGIN:VCALENDAR
 PRODID:-//eluceo/ical//2.0/EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Spa le Finlandais / Isabelle / GitHub
-X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-UID:schedule_1591_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260801T160000
-DTEND:20260801T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1592_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 19:00-22:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 20\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260801T190000
-DTEND:20260801T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1594_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 13:00-16:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $5\n\nExported from Indyzen
-  Calendar
-DTSTART:20260802T130000
-DTEND:20260802T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1595_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260802T160000
-DTEND:20260802T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1596_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 19:00-22:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 20\n💲 Monetary: $5\n\nExported from Indyzen
-  Calendar
-DTSTART:20260802T190000
-DTEND:20260802T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1615_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
- rted from Indyzen Calendar
-DTSTART:20260807T160000
-DTEND:20260807T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1616_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 19:00-22:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260807T190000
-DTEND:20260807T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1618_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 13:00-16:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260808T130000
-DTEND:20260808T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1619_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260808T160000
-DTEND:20260808T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1620_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 19:00-22:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 20\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260808T190000
-DTEND:20260808T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1621_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 10:00-13:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260809T100000
-DTEND:20260809T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1622_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 13:00-16:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $5\n\nExported from Indyzen
-  Calendar
-DTSTART:20260809T130000
-DTEND:20260809T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1623_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260809T160000
-DTEND:20260809T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1631_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
- rted from Indyzen Calendar
-DTSTART:20260811T160000
-DTEND:20260811T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1639_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
- rted from Indyzen Calendar
-DTSTART:20260813T160000
-DTEND:20260813T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1669_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 10:00-13:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
- rted from Indyzen Calendar
-DTSTART:20260821T100000
-DTEND:20260821T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1670_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 13:00-16:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
- rted from Indyzen Calendar
-DTSTART:20260821T130000
-DTEND:20260821T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1675_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260822T160000
-DTEND:20260822T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1676_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 19:00-22:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 20\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260822T190000
-DTEND:20260822T220000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1678_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 13:00-16:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $5\n\nExported from Indyzen
-  Calendar
-DTSTART:20260823T130000
-DTEND:20260823T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1679_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
- lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
-  Calendar
-DTSTART:20260823T160000
-DTEND:20260823T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1687_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 16:00-19:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
- rted from Indyzen Calendar
-DTSTART:20260825T160000
-DTEND:20260825T190000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1721_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1721_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -228,8 +12,8 @@ DTSTART:20260903T100000
 DTEND:20260903T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1722_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1722_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -237,8 +21,8 @@ DTSTART:20260903T130000
 DTEND:20260903T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1730_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1730_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -247,8 +31,8 @@ DTSTART:20260905T130000
 DTEND:20260905T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1731_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1731_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 16:00-19:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -257,8 +41,8 @@ DTSTART:20260905T160000
 DTEND:20260905T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1732_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1732_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 19:00-22:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 20\n💲 Monetary: $8\n\nExported from Indyzen
@@ -267,8 +51,8 @@ DTSTART:20260905T190000
 DTEND:20260905T220000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1733_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1733_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -277,8 +61,8 @@ DTSTART:20260906T100000
 DTEND:20260906T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1734_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1734_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $5\n\nExported from Indyzen
@@ -287,8 +71,8 @@ DTSTART:20260906T130000
 DTEND:20260906T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1735_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1735_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 16:00-19:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -297,8 +81,8 @@ DTSTART:20260906T160000
 DTEND:20260906T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1741_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1741_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -306,8 +90,8 @@ DTSTART:20260908T100000
 DTEND:20260908T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1742_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1742_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -315,26 +99,8 @@ DTSTART:20260908T130000
 DTEND:20260908T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1777_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 10:00-13:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
- rted from Indyzen Calendar
-DTSTART:20260917T100000
-DTEND:20260917T130000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1778_1787837153
-DTSTAMP:20260827T132553Z
-SUMMARY:Availability - 13:00-16:00
-DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
- rted from Indyzen Calendar
-DTSTART:20260917T130000
-DTEND:20260917T160000
-END:VEVENT
-BEGIN:VEVENT
-UID:schedule_1781_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1781_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -342,8 +108,8 @@ DTSTART:20260918T100000
 DTEND:20260918T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1782_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1782_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -351,8 +117,8 @@ DTSTART:20260918T130000
 DTEND:20260918T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1789_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1789_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -361,8 +127,8 @@ DTSTART:20260920T100000
 DTEND:20260920T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1790_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1790_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -371,8 +137,8 @@ DTSTART:20260920T130000
 DTEND:20260920T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1791_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1791_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 16:00-19:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $5\n\nExported from Indyzen
@@ -381,8 +147,8 @@ DTSTART:20260920T160000
 DTEND:20260920T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1809_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1809_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -390,8 +156,8 @@ DTSTART:20260925T100000
 DTEND:20260925T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1810_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1810_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -399,8 +165,8 @@ DTSTART:20260925T130000
 DTEND:20260925T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1833_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1833_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -408,8 +174,8 @@ DTSTART:20261001T100000
 DTEND:20261001T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1834_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1834_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -417,8 +183,8 @@ DTSTART:20261001T130000
 DTEND:20261001T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1845_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1845_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n💲 Monetary: $8\n⭐ Points: 10\n\nExported from Indyzen
@@ -427,8 +193,8 @@ DTSTART:20261004T100000
 DTEND:20261004T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1846_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1846_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n💲 Monetary: $8\n⭐ Points: 10\n\nExported from Indyzen
@@ -437,8 +203,8 @@ DTSTART:20261004T130000
 DTEND:20261004T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1847_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1847_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 16:00-19:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n💲 Monetary: $5\n⭐ Points: 10\n\nExported from Indyzen
@@ -447,8 +213,8 @@ DTSTART:20261004T160000
 DTEND:20261004T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1853_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1853_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -456,8 +222,8 @@ DTSTART:20261006T100000
 DTEND:20261006T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1854_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1854_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -465,8 +231,8 @@ DTSTART:20261006T130000
 DTEND:20261006T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1889_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1889_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -474,8 +240,8 @@ DTSTART:20261015T100000
 DTEND:20261015T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1890_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1890_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -483,8 +249,8 @@ DTSTART:20261015T130000
 DTEND:20261015T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1893_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1893_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -492,8 +258,8 @@ DTSTART:20261016T100000
 DTEND:20261016T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1894_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1894_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -501,8 +267,8 @@ DTSTART:20261016T130000
 DTEND:20261016T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1901_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1901_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -511,8 +277,8 @@ DTSTART:20261018T100000
 DTEND:20261018T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1902_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1902_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -521,8 +287,8 @@ DTSTART:20261018T130000
 DTEND:20261018T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1903_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1903_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 16:00-19:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $5\n\nExported from Indyzen
@@ -531,8 +297,8 @@ DTSTART:20261018T160000
 DTEND:20261018T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1913_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1913_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -540,8 +306,8 @@ DTSTART:20261021T100000
 DTEND:20261021T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1914_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1914_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
  rted from Indyzen Calendar
@@ -549,8 +315,8 @@ DTSTART:20261021T130000
 DTEND:20261021T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1925_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1925_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 10:00-13:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -559,8 +325,8 @@ DTSTART:20261024T100000
 DTEND:20261024T130000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1926_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1926_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 13:00-16:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -569,8 +335,8 @@ DTSTART:20261024T130000
 DTEND:20261024T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1927_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1927_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 16:00-19:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
@@ -579,13 +345,197 @@ DTSTART:20261024T160000
 DTEND:20261024T190000
 END:VEVENT
 BEGIN:VEVENT
-UID:schedule_1928_1787837153
-DTSTAMP:20260827T132553Z
+UID:schedule_1928_1790290114
+DTSTAMP:20260924T224834Z
 SUMMARY:Availability - 19:00-22:00
 DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
  lable bonuses:\n⭐ Points: 20\n💲 Monetary: $8\n\nExported from Indyzen
   Calendar
 DTSTART:20261024T190000
 DTEND:20261024T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2001_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 10:00-13:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
+ rted from Indyzen Calendar
+DTSTART:20261112T100000
+DTEND:20261112T130000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2002_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 13:00-16:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
+ rted from Indyzen Calendar
+DTSTART:20261112T130000
+DTEND:20261112T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2010_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 13:00-16:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261114T130000
+DTEND:20261114T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2011_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 16:00-19:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261114T160000
+DTEND:20261114T190000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2012_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 19:00-22:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 20\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261114T190000
+DTEND:20261114T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2013_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 10:00-13:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261115T100000
+DTEND:20261115T130000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2014_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 13:00-16:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261115T130000
+DTEND:20261115T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2015_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 16:00-19:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $5\n\nExported from Indyzen
+  Calendar
+DTSTART:20261115T160000
+DTEND:20261115T190000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2033_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 10:00-13:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
+ rted from Indyzen Calendar
+DTSTART:20261120T100000
+DTEND:20261120T130000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2034_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 13:00-16:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
+ rted from Indyzen Calendar
+DTSTART:20261120T130000
+DTEND:20261120T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2057_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 10:00-13:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
+ rted from Indyzen Calendar
+DTSTART:20261126T100000
+DTEND:20261126T130000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2058_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 13:00-16:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nExpo
+ rted from Indyzen Calendar
+DTSTART:20261126T130000
+DTEND:20261126T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2064_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 19:00-22:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261127T190000
+DTEND:20261127T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2066_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 13:00-16:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261128T130000
+DTEND:20261128T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2067_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 16:00-19:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261128T160000
+DTEND:20261128T190000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2068_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 19:00-22:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 20\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261128T190000
+DTEND:20261128T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2069_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 10:00-13:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261129T100000
+DTEND:20261129T130000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2070_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 13:00-16:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $8\n\nExported from Indyzen
+  Calendar
+DTSTART:20261129T130000
+DTEND:20261129T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:schedule_2071_1790290114
+DTSTAMP:20260924T224834Z
+SUMMARY:Availability - 16:00-19:00
+DESCRIPTION:Availability schedule at Indyzen\n\nDuration: 3 hour(s)\n\nAvai
+ lable bonuses:\n⭐ Points: 10\n💲 Monetary: $5\n\nExported from Indyzen
+  Calendar
+DTSTART:20261129T160000
+DTEND:20261129T190000
 END:VEVENT
 END:VCALENDAR
